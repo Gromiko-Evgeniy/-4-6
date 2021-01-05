@@ -1,0 +1,8 @@
+﻿  counting.cpp
+C:\Users\egrom\Desktop\C++\Л5\Л555555\counting.cpp(26,61): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\egrom\Desktop\C++\Л5\Л555555\counting.cpp(28,51): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\egrom\Desktop\C++\Л5\Л555555\counting.cpp(51,30): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+C:\Users\egrom\Desktop\C++\Л5\Л555555\counting.cpp(61,30): warning C4244: +=: преобразование "float" в "int", возможна потеря данных
+  Л555555.cpp
+  Создание кода...
+  Л555555.vcxproj -> C:\Users\egrom\Desktop\C++\Л5\Л555555\Debug\Л555555.exe
